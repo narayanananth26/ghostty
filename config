@@ -1,0 +1,17 @@
+theme = light:Rose Pine Dawn,dark:Rose Pine Moon
+foreground = #ffffd7
+
+background = #000000
+background-opacity = 1
+background-image = "/Users/harshnarayan/Desktop/Ananth/cat_ascii.png"
+background-image-opacity = 0.2
+background-image-position = top-right
+background-image-fit = contain
+background-image-repeat = false
+
+font-family = "JetBrainsMono Nerd Font"
+
+cursor-color = #FF8A95
+cursor-style = block
+shell-integration-features = no-cursor
+cursor-text = #000000
