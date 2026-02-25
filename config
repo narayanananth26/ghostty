@@ -3,7 +3,8 @@ foreground = #ffffd7
 
 # background = #000000
 background-opacity = 1
-background-image = "~/.config/ghostty/cat_ascii.png"
+# Rose Pine has bluish bg. Make sure that your image matches that color so that it blends properly
+background-image = "~/.config/ghostty/backgrounds/cat_ascii.png"
 background-image-opacity = 0.2
 background-image-position = top-right
 background-image-fit = contain
