@@ -1,12 +1,14 @@
 theme = light:Rose Pine Dawn,dark:Rose Pine Moon
 foreground = #ffffd7
 
+# background-image = "~/.config/ghostty/backgrounds/hello-kitty.jpg"
 background = #000000
-background-image = "~/.config/ghostty/backgrounds/goth-baddie.jpg"
-# background-image-position = top-right
+# background-image = "~/.config/ghostty/backgrounds/goth-baddie.jpg"
+# background-image = "~/.config/ghostty/backgrounds/cat-ascii.png"
+background-image = "~/.config/ghostty/backgrounds/snoopy.jpg"
 background-image-fit = cover
 background-image-repeat = false
-background-image-opacity = 1
+background-image-opacity = 0.4
 
 font-family = "JetBrainsMono Nerd Font"
 
